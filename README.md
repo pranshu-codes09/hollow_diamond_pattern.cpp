@@ -1,1 +1,1 @@
-# hollow_diamond_pattern.cpp
+#cpp_pattern
